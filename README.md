@@ -529,7 +529,7 @@ video {
 <!-- IMAGEN IZQUIERDA -->
 
 <img
-    src="3734.jpg.JPEG"
+    src="3734.jpg.jpeg"
     class="imagen-fondo imagen-izquierda"
     id="imagenIzquierda"
 >
@@ -538,7 +538,7 @@ video {
 <!-- IMAGEN DERECHA -->
 
 <img
-    src="3735.jpg.JPEG"
+    src="3735.jpg.jpeg"
     class="imagen-fondo imagen-derecha"
     id="imagenDerecha"
 >
@@ -565,7 +565,7 @@ video {
     <video controls>
 
         <source
-            src="cumple.MP4"
+            src="cumple.mp4"
             type="video/mp4"
         >
 
